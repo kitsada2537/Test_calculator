@@ -1,0 +1,9 @@
+D:\Test\Test_calculator\Test_calculator\bin\Debug\Test_calculator.exe.config
+D:\Test\Test_calculator\Test_calculator\bin\Debug\Test_calculator.exe
+D:\Test\Test_calculator\Test_calculator\bin\Debug\Test_calculator.pdb
+D:\Test\Test_calculator\Test_calculator\obj\Debug\Test_calculator.csprojResolveAssemblyReference.cache
+D:\Test\Test_calculator\Test_calculator\obj\Debug\Test_calculator.Form1.resources
+D:\Test\Test_calculator\Test_calculator\obj\Debug\Test_calculator.Properties.Resources.resources
+D:\Test\Test_calculator\Test_calculator\obj\Debug\Test_calculator.csproj.GenerateResource.Cache
+D:\Test\Test_calculator\Test_calculator\obj\Debug\Test_calculator.exe
+D:\Test\Test_calculator\Test_calculator\obj\Debug\Test_calculator.pdb
