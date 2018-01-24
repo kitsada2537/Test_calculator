@@ -83,7 +83,16 @@ namespace Test_calculator
 
         private void button20_Click(object sender, EventArgs e)
         {
-            result.Text = "";
+            int a = result.Text.Length;
+            if (result.Text == "")
+            {
+                result.Text = "";
+            }
+            else
+            {
+                result.Text = result.Text.Remove (a - 1);
+            }
+           
         }
     }
 

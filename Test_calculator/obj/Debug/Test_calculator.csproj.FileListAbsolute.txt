@@ -10,3 +10,6 @@ D:\Test\Test_calculator\Test_calculator\obj\Debug\Test_calculator.pdb
 C:\Users\Craze-Dev\Downloads\Test_calculator-master\Test_calculator-master\test_calculator2112\Test_calculator\bin\Debug\Test_calculator.exe.config
 C:\Users\Craze-Dev\Downloads\Test_calculator-master\Test_calculator-master\test_calculator2112\Test_calculator\obj\Debug\Test_calculator.exe
 C:\Users\Craze-Dev\Downloads\Test_calculator-master\Test_calculator-master\test_calculator2112\Test_calculator\obj\Debug\Test_calculator.pdb
+C:\Users\Craze-Dev\Downloads\Test_calculator-master\Test_calculator-master\test_calculator1234\Test_calculator\bin\Debug\Test_calculator.exe.config
+C:\Users\Craze-Dev\Downloads\Test_calculator-master\Test_calculator-master\test_calculator1234\Test_calculator\obj\Debug\Test_calculator.exe
+C:\Users\Craze-Dev\Downloads\Test_calculator-master\Test_calculator-master\test_calculator1234\Test_calculator\obj\Debug\Test_calculator.pdb
