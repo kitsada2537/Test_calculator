@@ -81,8 +81,10 @@ namespace Test_calculator
             label1.Text = "";
         }
 
-
-       
+        private void button20_Click(object sender, EventArgs e)
+        {
+            result.Text = "";
+        }
     }
 
     }

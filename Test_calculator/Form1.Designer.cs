@@ -136,6 +136,7 @@
             this.button20.TabIndex = 28;
             this.button20.Text = "Blackspace";
             this.button20.UseVisualStyleBackColor = true;
+            this.button20.Click += new System.EventHandler(this.button20_Click);
             // 
             // button21
             // 
